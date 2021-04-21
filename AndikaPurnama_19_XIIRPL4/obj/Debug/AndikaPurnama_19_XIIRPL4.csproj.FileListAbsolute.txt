@@ -1,0 +1,11 @@
+C:\Users\ACER\source\repos\AndikaPurnama_19_XIIRPL4\AndikaPurnama_19_XIIRPL4\bin\Debug\mydb.accdb
+C:\Users\ACER\source\repos\AndikaPurnama_19_XIIRPL4\AndikaPurnama_19_XIIRPL4\bin\Debug\AndikaPurnama_19_XIIRPL4.exe.config
+C:\Users\ACER\source\repos\AndikaPurnama_19_XIIRPL4\AndikaPurnama_19_XIIRPL4\bin\Debug\AndikaPurnama_19_XIIRPL4.exe
+C:\Users\ACER\source\repos\AndikaPurnama_19_XIIRPL4\AndikaPurnama_19_XIIRPL4\bin\Debug\AndikaPurnama_19_XIIRPL4.pdb
+C:\Users\ACER\source\repos\AndikaPurnama_19_XIIRPL4\AndikaPurnama_19_XIIRPL4\obj\Debug\AndikaPurnama_19_XIIRPL4.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\AndikaPurnama_19_XIIRPL4\AndikaPurnama_19_XIIRPL4\obj\Debug\AndikaPurnama_19_XIIRPL4.Form1.resources
+C:\Users\ACER\source\repos\AndikaPurnama_19_XIIRPL4\AndikaPurnama_19_XIIRPL4\obj\Debug\AndikaPurnama_19_XIIRPL4.Properties.Resources.resources
+C:\Users\ACER\source\repos\AndikaPurnama_19_XIIRPL4\AndikaPurnama_19_XIIRPL4\obj\Debug\AndikaPurnama_19_XIIRPL4.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\AndikaPurnama_19_XIIRPL4\AndikaPurnama_19_XIIRPL4\obj\Debug\AndikaPurnama_19_XIIRPL4.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\AndikaPurnama_19_XIIRPL4\AndikaPurnama_19_XIIRPL4\obj\Debug\AndikaPurnama_19_XIIRPL4.exe
+C:\Users\ACER\source\repos\AndikaPurnama_19_XIIRPL4\AndikaPurnama_19_XIIRPL4\obj\Debug\AndikaPurnama_19_XIIRPL4.pdb
